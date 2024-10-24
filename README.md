@@ -44,7 +44,8 @@ Key metrics displayed:
 - **Total Profit by State**
 - **Top Profit Generating Products**
 
-![image](https://github.com/user-attachments/assets/c6647be8-0637-4a21-a187-c28c9b19d968)
+![image](https://github.com/user-attachments/assets/ac43d2b5-bf92-448d-942b-0e371bcb9bc3)
+
 
 
 ---
@@ -60,7 +61,8 @@ Key features:
 - **Filters**: Customizable view based on Employee, Customer, City, and Buying Group.
 
 
-![image](https://github.com/user-attachments/assets/461423b4-b7a6-42b6-9bb8-2abf59d74b83)
+![image](https://github.com/user-attachments/assets/4cb80e76-a98b-4039-bfa8-5a33cfabafce)
+
 
 ---
 
